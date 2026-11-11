@@ -2,6 +2,12 @@ city: new-york-city
 data_root: united-states/ny/new-york-city
 currency: USD
 
+# Duong dan tuong doi tu thu muc chua file YAML nay.
+assignments:
+  listing_ids: nyc_g08_listing_ids.csv
+  review_ids: nyc_g08_review_ids.csv
+  regions: nyc_g08_regions.csv
+
 snapshots:
   - 2025-09-01
   - 2025-11-01
