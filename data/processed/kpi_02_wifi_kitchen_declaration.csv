@@ -1,0 +1,42 @@
+snapshot,borough,room_type,n_listings_total,n_amenities_valid,n_wifi_kitchen,n_amenities_missing,n_amenities_invalid,grouping_warning_flag,n_amenities_excluded,wifi_kitchen_pct,amenities_coverage_pct,low_n_flag,low_coverage_flag,status
+2025-09-01,Bronx,Entire home/apt,28,28,24,0,0,False,0,85.71428571428571,100.0,False,False,ok
+2025-09-01,Bronx,Private room,6,6,5,0,0,False,0,83.33333333333333,100.0,True,False,warning
+2025-09-01,Brooklyn,Entire home/apt,289,289,268,0,0,False,0,92.73356401384083,100.0,False,False,ok
+2025-09-01,Brooklyn,Private room,55,55,51,0,0,False,0,92.72727272727273,100.0,False,False,ok
+2025-09-01,Manhattan,Entire home/apt,438,438,410,0,0,False,0,93.60730593607306,100.0,False,False,ok
+2025-09-01,Manhattan,Private room,40,40,18,0,0,False,0,45.0,100.0,False,False,ok
+2025-09-01,Queens,Entire home/apt,110,110,101,0,0,False,0,91.81818181818181,100.0,False,False,ok
+2025-09-01,Queens,Private room,23,23,17,0,0,False,0,73.91304347826087,100.0,False,False,ok
+2025-09-01,Staten Island,Entire home/apt,10,10,8,0,0,False,0,80.0,100.0,False,False,ok
+2025-09-01,Staten Island,Private room,1,1,1,0,0,False,0,100.0,100.0,True,False,warning
+2025-11-01,Bronx,Entire home/apt,28,28,24,0,0,False,0,85.71428571428571,100.0,False,False,ok
+2025-11-01,Bronx,Private room,6,6,5,0,0,False,0,83.33333333333333,100.0,True,False,warning
+2025-11-01,Brooklyn,Entire home/apt,289,289,268,0,0,False,0,92.73356401384083,100.0,False,False,ok
+2025-11-01,Brooklyn,Private room,55,55,50,0,0,False,0,90.9090909090909,100.0,False,False,ok
+2025-11-01,Manhattan,Entire home/apt,431,431,402,0,0,False,0,93.27146171693735,100.0,False,False,ok
+2025-11-01,Manhattan,Private room,40,40,19,0,0,False,0,47.5,100.0,False,False,ok
+2025-11-01,Manhattan,Shared room,1,1,1,0,0,False,0,100.0,100.0,True,False,warning
+2025-11-01,Queens,Entire home/apt,110,110,101,0,0,False,0,91.81818181818181,100.0,False,False,ok
+2025-11-01,Queens,Private room,22,22,16,0,0,False,0,72.72727272727273,100.0,False,False,ok
+2025-11-01,Staten Island,Entire home/apt,10,10,8,0,0,False,0,80.0,100.0,False,False,ok
+2025-11-01,Staten Island,Private room,1,1,1,0,0,False,0,100.0,100.0,True,False,warning
+2026-03-16,Bronx,Entire home/apt,28,28,24,0,0,False,0,85.71428571428571,100.0,False,False,ok
+2026-03-16,Bronx,Private room,6,6,5,0,0,False,0,83.33333333333333,100.0,True,False,warning
+2026-03-16,Brooklyn,Entire home/apt,289,289,268,0,0,False,0,92.73356401384083,100.0,False,False,ok
+2026-03-16,Brooklyn,Private room,55,55,51,0,0,False,0,92.72727272727273,100.0,False,False,ok
+2026-03-16,Manhattan,Entire home/apt,438,438,408,0,0,False,0,93.15068493150685,100.0,False,False,ok
+2026-03-16,Manhattan,Private room,40,40,18,0,0,False,0,45.0,100.0,False,False,ok
+2026-03-16,Queens,Entire home/apt,110,110,101,0,0,False,0,91.81818181818181,100.0,False,False,ok
+2026-03-16,Queens,Private room,23,23,17,0,0,False,0,73.91304347826087,100.0,False,False,ok
+2026-03-16,Staten Island,Entire home/apt,10,10,8,0,0,False,0,80.0,100.0,False,False,ok
+2026-03-16,Staten Island,Private room,1,1,1,0,0,False,0,100.0,100.0,True,False,warning
+2026-06-14,Bronx,Entire home/apt,28,28,24,0,0,False,0,85.71428571428571,100.0,False,False,ok
+2026-06-14,Bronx,Private room,6,6,5,0,0,False,0,83.33333333333333,100.0,True,False,warning
+2026-06-14,Brooklyn,Entire home/apt,289,289,267,0,0,False,0,92.38754325259515,100.0,False,False,ok
+2026-06-14,Brooklyn,Private room,55,55,51,0,0,False,0,92.72727272727273,100.0,False,False,ok
+2026-06-14,Manhattan,Entire home/apt,438,438,409,0,0,False,0,93.37899543378995,100.0,False,False,ok
+2026-06-14,Manhattan,Private room,40,40,20,0,0,False,0,50.0,100.0,False,False,ok
+2026-06-14,Queens,Entire home/apt,110,110,100,0,0,False,0,90.9090909090909,100.0,False,False,ok
+2026-06-14,Queens,Private room,23,23,17,0,0,False,0,73.91304347826087,100.0,False,False,ok
+2026-06-14,Staten Island,Entire home/apt,10,10,8,0,0,False,0,80.0,100.0,False,False,ok
+2026-06-14,Staten Island,Private room,1,1,1,0,0,False,0,100.0,100.0,True,False,warning

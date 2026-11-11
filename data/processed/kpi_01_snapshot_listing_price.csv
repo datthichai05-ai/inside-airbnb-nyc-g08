@@ -1,0 +1,11 @@
+snapshot,borough,room_type,median_price_usd,n_listings_total,n_price_valid,n_price_missing,n_price_invalid,n_price_iqr_flag,n_price_excluded,price_coverage_pct,low_n_flag,low_coverage_flag,iqr_warning_flag,status
+2025-09-01,Bronx,Entire home/apt,114.0,28,26,2,0,0,2,92.85714285714286,False,False,False,ok
+2025-09-01,Bronx,Private room,91.5,6,6,0,0,0,0,100.0,True,False,False,warning
+2025-09-01,Brooklyn,Entire home/apt,175.0,289,261,28,0,23,28,90.31141868512111,False,False,True,warning
+2025-09-01,Brooklyn,Private room,110.0,55,50,5,0,0,5,90.9090909090909,False,False,False,ok
+2025-09-01,Manhattan,Entire home/apt,200.0,438,403,35,0,48,35,92.00913242009132,False,False,True,warning
+2025-09-01,Manhattan,Private room,132.0,40,31,9,0,4,9,77.5,False,True,True,warning
+2025-09-01,Queens,Entire home/apt,141.0,110,100,10,0,3,10,90.9090909090909,False,False,True,warning
+2025-09-01,Queens,Private room,90.5,23,20,3,0,0,3,86.95652173913044,False,False,False,ok
+2025-09-01,Staten Island,Entire home/apt,91.5,10,10,0,0,0,0,100.0,False,False,False,ok
+2025-09-01,Staten Island,Private room,121.0,1,1,0,0,0,0,100.0,True,False,False,warning

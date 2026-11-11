@@ -1,0 +1,12 @@
+snapshot,window_start,window_end,group_level,borough,room_type,n_listings_total,n_true,n_false,n_unknown,n_missing_days,n_constraint_error_rows,n_evaluable,three_night_share_pct,coverage_pct,lower_bound_pct,upper_bound_pct,constraint_policy,denominator_policy,low_n_flag,low_coverage_flag,status
+2026-03-16,2026-03-17,2026-06-14,all,,,1000,156,843,1,0,32,999,15.615615615615615,99.9,15.6,15.7,arrival_day,evaluable,False,False,warning
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Bronx,Entire home/apt,28,3,25,0,0,0,28,10.714285714285714,100.0,10.714285714285714,10.714285714285714,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Bronx,Private room,6,2,4,0,0,0,6,33.333333333333336,100.0,33.333333333333336,33.333333333333336,arrival_day,evaluable,True,False,warning
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Brooklyn,Entire home/apt,289,35,253,1,0,32,288,12.152777777777779,99.65397923875433,12.110726643598616,12.456747404844291,arrival_day,evaluable,False,False,warning
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Brooklyn,Private room,55,18,37,0,0,0,55,32.72727272727273,100.0,32.72727272727273,32.72727272727273,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Manhattan,Entire home/apt,438,59,379,0,0,0,438,13.470319634703197,100.0,13.470319634703197,13.470319634703197,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Manhattan,Private room,40,16,24,0,0,0,40,40.0,100.0,40.0,40.0,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Queens,Entire home/apt,110,12,98,0,0,0,110,10.909090909090908,100.0,10.909090909090908,10.909090909090908,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Queens,Private room,23,10,13,0,0,0,23,43.47826086956522,100.0,43.47826086956522,43.47826086956522,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Staten Island,Entire home/apt,10,1,9,0,0,0,10,10.0,100.0,10.0,10.0,arrival_day,evaluable,False,False,ok
+2026-03-16,2026-03-17,2026-06-14,borough_room_type,Staten Island,Private room,1,0,1,0,0,0,1,0.0,100.0,0.0,0.0,arrival_day,evaluable,True,False,warning
